@@ -1,4 +1,4 @@
-📊 Business Insights 360 – AtliQ Hardware Data Analytics Project
+📊 [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiMGM3ZDY5NDktYTQ3Mi00MzQ1LTk1YzMtZGM1Yjg2ODI4OTFiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) – AtliQ Hardware Data Analytics Project
 
 🚀 Project Overview :
 AtliQ Hardware, a rapidly growing electronics company, struggled with inefficient decision-making due to scattered Excel-based analytics. To stay competitive and drive strategic growth, AtliQ launched a data-driven transformation project—leveraging Power BI to enhance visibility across finance, sales, marketing, and supply chain operations.
