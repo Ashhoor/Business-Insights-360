@@ -48,11 +48,11 @@ DAX – Custom calculations for insights
 
 📂 Deliverables :
 
-🔹 Power BI Dashboard (Hosted) – Executive & operational insights
+🔹 [Power BI Dashboard](https://app.powerbi.com/links/ZJGqoDQdQd?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=16b187d0-6368-45cb-bdf1-75bfd1f86777) (Hosted) – Executive & operational insights
 
-🔹 Data Model – Optimized for performance & usability
+🔹 [Data Model](https://github.com/Ashhoor/Business-Insights-360/blob/main/BI360%20Data%20Model.png) – Optimized for performance & usability
 
-🔹 PDF Report – Summary of findings & recommendations
+🔹 [PDF Report](https://github.com/Ashhoor/Business-Insights-360/blob/main/BI%20360.pdf) – Summary of findings & recommendations
 
 
 🔥 This project provided hands-on experience in business analytics, data visualization, and strategic decision-making, reinforcing the power of data in driving business success.
